@@ -17,4 +17,4 @@ HTML의 이미지맵을 도와주는 크롬 확장프로그램입니다.
 </table>
 
 ## Available Browser
-Chrome only
+<img src="https://user-images.githubusercontent.com/39899731/138910423-205a97d4-c205-4d13-90fb-d3189936a5e3.png" width="48" alt="Chrome" valign="middle" /> Chrome only
