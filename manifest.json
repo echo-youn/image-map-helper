@@ -1,6 +1,6 @@
 {
-  "name": "Image Mapper",
-  "description": "Image Mapper!!!",
+  "name": "Image Map Helper",
+  "description": "Chrome extension that helps image maps in HTML. HTML의 이미지맵을 도와주는 크롬 확장프로그램입니다.",
   "version": "0.1",
   "manifest_version": 3,
   "action": {
@@ -9,7 +9,7 @@
       "24": "images/icon24.png",
       "32": "images/icon32.png"
     },
-    "default_title": "Image Map Overlay"
+    "default_title": "Image Map Helper"
   },
   "permissions": [
     "activeTab",
