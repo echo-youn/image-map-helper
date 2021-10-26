@@ -1,0 +1,22 @@
+{
+  "name": "Image Mapper",
+  "description": "Image Mapper!!!",
+  "version": "0.1",
+  "manifest_version": 3,
+  "action": {
+    "default_icon": {
+      "16": "images/icon16.png",
+      "24": "images/icon24.png",
+      "32": "images/icon32.png"
+    },
+    "default_title": "Image Map Overlay"
+  },
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "tabs"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
